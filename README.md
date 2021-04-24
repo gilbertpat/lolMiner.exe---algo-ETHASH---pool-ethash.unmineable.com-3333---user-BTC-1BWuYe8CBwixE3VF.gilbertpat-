@@ -1,0 +1,1 @@
+# lolMiner.exe---algo-ETHASH---pool-ethash.unmineable.com-3333---user-BTC-1BWuYe8CBwixE3VF.gilbertpat-
